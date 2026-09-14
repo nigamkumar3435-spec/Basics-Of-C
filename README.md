@@ -1,80 +1,76 @@
 # 🚀 Basics of C Programming
 
-![C](https://img.shields.io/badge/C-Programming-A8B9CC?style=for-the-badge\&logo=c)
-![Status](https://img.shields.io/badge/Status-Learning-success?style=for-the-badge)
+![C](https://img.shields.io/badge/C-Programming-blue?style=for-the-badge\&logo=c)
+![Practice](https://img.shields.io/badge/Practice-Programs-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge)
 
 ## 📖 Overview
 
-This repository contains my **C programming practice programs**, created while learning the fundamentals of the C programming language.
-
-It focuses on building programming logic, understanding core syntax, and developing a strong foundation for **Data Structures and Algorithms**.
-
----
-
-## 🎯 Learning Objectives
-
-* Learn C programming fundamentals
-* Understand variables and data types
-* Practice input and output
-* Develop problem-solving skills
-* Understand control statements and loops
-* Learn functions, arrays, and pointers
-* Build a foundation for DSA
-
----
+This repository contains my **C programming practice**, covering fundamental concepts, loops, functions, arrays, searching, and basic problem-solving programs.
 
 ## 📚 Topics Covered
 
-* C Program Structure
+* C Basics & `printf()` / `scanf()`
 * Variables & Data Types
-* Constants
-* Input & Output
-* Operators & Expressions
-* `if`, `else` & Nested Conditions
-* `switch`
-* Loops
+* Arithmetic & Relational Operators
+* Conditional / Ternary Operator
+* `while` and `for` Loops
+* Number-Based Programs
 * Functions
 * Arrays
-* Strings
-* Pointers
-* Structures
+* Array Traversal & Operations
+* Searching
+* Binary Search
 * Basic Problem Solving
 
----
+## 💻 Programs Included
 
-## 💻 Practice Programs
+* Hello World
+* Addition of Two Numbers
+* 1 to 10
+* 2 to 20
+* 1 to 10 with Squares
+* Even / Odd Number
+* Factorial
+* Fibonacci Series
+* Armstrong Number
+* ASCII Value
+* Total & Average of Marks
+* 1D Array Input & Display
+* Reverse Array
+* Even Elements in Array
+* Sum of Array Elements
+* Maximum Element in Array
+* Binary Search
+* Static Variable Example
 
-* Basic Input/Output
-* Arithmetic Calculations
-* Number Problems
-* Conditional Programs
-* Loop-Based Programs
-* Functions
-* Array Programs
-* String Operations
-* Pointer Programs
-* Structure Programs
+The repository also includes basic loop and array practice programs. For example, the array programs demonstrate input, traversal, reverse traversal, sum, maximum-value search, and filtering even elements.
 
----
+## 🧠 Learning Path
 
-## 🛠️ Technologies Used
-
-* **C**
-* **GCC Compiler**
-* **VS Code / Code::Blocks**
-* **Git & GitHub**
-
----
-
-## 🚀 Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/nigamkumar3435-spec/Basics-Of-C.git
+```text
+C Basics
+   ↓
+Input & Output
+   ↓
+Operators & Conditions
+   ↓
+Loops
+   ↓
+Number Programs
+   ↓
+Functions
+   ↓
+Arrays
+   ↓
+Searching
+   ↓
+Problem Solving
 ```
 
-Compile a C program:
+## 🛠️ How to Run
+
+Compile any C program using GCC:
 
 ```bash
 gcc filename.c -o program
@@ -86,68 +82,29 @@ Run:
 ./program
 ```
 
-### Windows
+## 🎯 Goal
 
-```bash
-program.exe
-```
+To build a strong foundation in **C programming and problem-solving** before moving deeper into **Data Structures & Algorithms**.
 
----
+## 🚀 Future Learning
 
-## 📈 Learning Roadmap
-
-```text
-C Basics
-   ↓
-Variables & Data Types
-   ↓
-Operators
-   ↓
-Conditions
-   ↓
-Loops
-   ↓
-Functions
-   ↓
-Arrays & Strings
-   ↓
-Pointers
-   ↓
-Structures
-   ↓
-Data Structures & Algorithms
-```
-
----
-
-## 🔮 Future Topics
-
-* Advanced Pointers
-* Dynamic Memory Allocation
+* Strings
+* Pointers
+* Structures & Unions
 * Recursion
-* File Handling
+* Dynamic Memory Allocation
 * Linked List
-* Stack
-* Queue
-* Trees
-* Graphs
-* Searching & Sorting Algorithms
-
----
+* Stack & Queue
+* Sorting Algorithms
+* Advanced Searching
+* Data Structures & Algorithms
 
 ## 👨‍💻 Author
 
 **Nigam Kumar**
+B.Tech – Computer Science Engineering
+Indore Institute of Science and Technology, Indore
 
-🎓 B.Tech – Computer Science Engineering
-🏫 Indore Institute of Science and Technology, Indore
-
-**GitHub:** https://github.com/nigamkumar3435-spec
-
----
-
-## ⭐ Support
-
-If you find this repository useful, consider giving it a ⭐ on GitHub.
+⭐ **If you find this repository useful, consider giving it a star!**
 
 **Happy Coding! 🚀**
