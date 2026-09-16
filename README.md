@@ -2,49 +2,89 @@
 
 ![C](https://img.shields.io/badge/C-Programming-blue?style=for-the-badge\&logo=c)
 ![Practice](https://img.shields.io/badge/Practice-Programs-success?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-Learning-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 ## 📖 Overview
 
-This repository contains my **C programming practice**, covering fundamental concepts, loops, functions, arrays, searching, and basic problem-solving programs.
+This repository contains my **C programming practice**, covering programming fundamentals, loops, functions, arrays, searching, sorting, and introductory **Data Structures & Algorithms** concepts.
+
+It includes basic programs as well as algorithmic problems such as **Binary Search** and **Job Sequencing with Deadlines**.
 
 ## 📚 Topics Covered
 
-* C Basics & `printf()` / `scanf()`
-* Variables & Data Types
-* Arithmetic & Relational Operators
-* Conditional / Ternary Operator
-* `while` and `for` Loops
-* Number-Based Programs
-* Functions
-* Arrays
-* Array Traversal & Operations
-* Searching
-* Binary Search
-* Basic Problem Solving
-
-## 💻 Programs Included
+### 🔹 C Programming Basics
 
 * Hello World
-* Addition of Two Numbers
+* Variables & Data Types
+* Input & Output
+* Operators & Expressions
+* Conditional Statements
+* Ternary Operator
+
+### 🔹 Loops & Number Programs
+
+* `for` Loop
+* `while` Loop
 * 1 to 10
 * 2 to 20
-* 1 to 10 with Squares
-* Even / Odd Number
+* Squares of Numbers
 * Factorial
 * Fibonacci Series
 * Armstrong Number
-* ASCII Value
-* Total & Average of Marks
-* 1D Array Input & Display
-* Reverse Array
-* Even Elements in Array
-* Sum of Array Elements
-* Maximum Element in Array
-* Binary Search
-* Static Variable Example
+* Even / Odd Number
 
-The repository also includes basic loop and array practice programs. For example, the array programs demonstrate input, traversal, reverse traversal, sum, maximum-value search, and filtering even elements.
+### 🔹 Functions
+
+* User-Defined Functions
+* Static Variables
+* Function-Based Problem Solving
+
+### 🔹 Arrays
+
+* 1D Arrays
+* Array Input & Display
+* Reverse Array
+* Sum of Array Elements
+* Maximum Element
+* Finding Even Elements
+
+### 🔹 Searching & Algorithms
+
+* Linear Search
+* Binary Search
+* Bubble Sort
+* Job Sequencing with Deadlines
+
+## 💻 Programs Included
+
+| Program              | Concept                 |
+| -------------------- | ----------------------- |
+| `helloo.c`           | Hello World             |
+| `add.c`              | Addition                |
+| `1to10.c`            | Loop                    |
+| `2to20.c`            | Multiplication          |
+| `1byii.c`            | Number / Square Pattern |
+| `ISquare.c`          | Squares using Loop      |
+| `factorial.c`        | Factorial               |
+| `Fibonacci.c`        | Fibonacci Series        |
+| `Armstrong.c`        | Armstrong Number        |
+| `EvenOd.c`           | Even / Odd              |
+| `ASCI.c` / `ascii.c` | ASCII Values            |
+| `average.c`          | Total & Average         |
+| `Array1D24.c`        | Array Input & Display   |
+| `Array1D25.c`        | Reverse Array           |
+| `Array1D26.c`        | Even Elements           |
+| `Array1D27.c`        | Array Sum               |
+| `Array1D29.c`        | Maximum Element         |
+| `Array1D30.c`        | Array Searching         |
+| `BinarySearch.c`     | Binary Search           |
+| `Job.c`              | Job Sequencing          |
+| `EvenOdd.c`          | Even / Odd              |
+
+The array programs practice input, traversal, reverse traversal, filtering, summation, and finding the maximum element.
+
+The repository also includes a Binary Search implementation and a Job Sequencing program using deadlines, profit sorting, and available time slots.
 
 ## 🧠 Learning Path
 
@@ -65,7 +105,11 @@ Arrays
    ↓
 Searching
    ↓
-Problem Solving
+Sorting
+   ↓
+Greedy Algorithms
+   ↓
+Data Structures & Algorithms
 ```
 
 ## 🛠️ How to Run
@@ -84,7 +128,7 @@ Run:
 
 ## 🎯 Goal
 
-To build a strong foundation in **C programming and problem-solving** before moving deeper into **Data Structures & Algorithms**.
+The main goal of this repository is to build a strong foundation in **C programming, logical thinking, and problem-solving**, followed by deeper learning of **Data Structures and Algorithms**.
 
 ## 🚀 Future Learning
 
@@ -97,7 +141,9 @@ To build a strong foundation in **C programming and problem-solving** before mov
 * Stack & Queue
 * Sorting Algorithms
 * Advanced Searching
-* Data Structures & Algorithms
+* Trees
+* Graphs
+* Advanced DSA
 
 ## 👨‍💻 Author
 
